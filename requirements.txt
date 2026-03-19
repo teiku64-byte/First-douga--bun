@@ -1,0 +1,7 @@
+anthropic
+Pillow
+pyyaml
+openai-whisper
+ffmpeg-python
+yt-dlp
+# streamlit  # Phase 4 UI用（オプション）
